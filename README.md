@@ -5,16 +5,13 @@ This interactive Tableau dashboard provides a comprehensive analysis of the Good
 <br><br>
 
 ## Project Overview
-### 1. Title:
-Goodreads Book Dataset Dashboard
-<br><br>
-### 2. Objective:
+### 1. Objective:
 - To analyze and visualize key insights from the Goodreads book dataset, including publication trends, top authors, publishers, languages, and reader engagement.
 <br><br>
-### 3. Problem Statement
+### 2. Problem Statement
 - With the vast and growing number of books available on platforms like Goodreads, it becomes challenging for readers, publishers, and researchers to gain meaningful insights into publication trends, popular authors, top-rated books, and reader preferences. There is a need for an interactive and visual approach to effectively explore and understand this extensive dataset to support data-driven decisions and personalized recommendations.
 <br><br>
-## 4. Tools:
+### 3. Tools:
 - Tableau Desktop Public Edition
 <br><br>
 
